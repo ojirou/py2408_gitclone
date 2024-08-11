@@ -1,0 +1,3 @@
+"#py2408_gitclone" 
+githubリポジトリをPC上に構築
+リポジトリ内に移動してファイルが格納されるまで待ち、クリックされたらfirst commitして、githubにアップロード
